@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,go,nodejs,js,vscode,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,go,nextjs,js,vscode,visualstudio" />
   </a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/buwud/buwud/output/github-contribution-grid-snake-dark.svg" />
